@@ -2,7 +2,7 @@
 
 - Nome: Gabriel Gallo Menequini Coutinho
 
-## Intruções de execução:
+## Intruções de execução (Ubuntu 22.04.5 LTS):
 
 - Clone o repositório localmente
 - Faça a instalação do ROS2 Humble (tutorial: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
